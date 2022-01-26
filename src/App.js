@@ -4,7 +4,9 @@ import Deck from './Deck.js'
 
 function App() {
   return (
-    <Deck />
+    <div className='App'>
+        <Deck />
+    </div>
   );
 }
 
